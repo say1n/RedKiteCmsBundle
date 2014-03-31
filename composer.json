@@ -22,9 +22,9 @@
     "imagine/Imagine": ">=0.4.1",
     "propel/propel-bundle": "1.2.*",
     "propel/propel1": "1.7.0",
-    "redkite-labs/redkite-labs-bootstrap-bundle": "dev-master",
-    "redkite-labs/redkite-labs-theme-engine-bundle": "dev-master",
-    "redkite-labs/redkite-labs-elfinder-bundle": "dev-master"
+    "redkite-labs/redkite-labs-bootstrap-bundle": "1.1.*",
+    "redkite-labs/redkite-labs-theme-engine-bundle": "1.1.*",
+    "redkite-labs/redkite-labs-elfinder-bundle": "1.1.*"
   },
   "require-dev": {    
     "symfony/symfony": "2.3.4",
@@ -38,14 +38,13 @@
     "sensio/framework-extra-bundle": "2.3.*",
     "sensio/generator-bundle": "2.3.*",
     "incenteev/composer-parameter-handler": "~2.0",
-    "redkite-cms/redkite-cms-base-blocks": "dev-master",
-    "redkite-cms/tinymce-block-bundle": "dev-master",
-    "redkite-labs/bootbusiness-theme-bundle": "dev-master",
-    "redkite-labs/modern-business-theme-bundle": "dev-master",
+    "redkite-cms/redkite-cms-base-blocks": "1.1.*",
+    "redkite-cms/tinymce-block-bundle": "1.1.*",
+    "redkite-labs/bootbusiness-theme-bundle": "1.0.*",
+    "redkite-labs/modern-business-theme-bundle": "1.0.*",
     "willdurand/propel-typehintable-behavior": "dev-master",  
     "mikey179/vfsStream": "1.1.0"
   },
-  "minimum-stability": "dev",
   "autoload": {
     "psr-0": {
         "RedKiteLabs\\RedKiteCms\\RedKiteCmsBundle": ""
